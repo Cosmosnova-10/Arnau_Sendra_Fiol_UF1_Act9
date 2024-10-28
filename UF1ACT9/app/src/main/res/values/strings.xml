@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UF1 ACT9</string>
+    <string name="button">button</string>
+    <string name="button2">button2</string>
+    <string name="button3">CambioPantalla</string>
+    <string name="button4">button</string>
+    <string name="button5">button2</string>
+    <string name="button6">vuelvo a la página principal</string>
+    <string name="LinearLayout">LinearLayout</string>
+
+</resources>
